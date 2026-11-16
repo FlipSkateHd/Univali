@@ -3,4 +3,4 @@
 Aqui vou deixar meus projetos, exercícios e materiais que achar pertinente para o curso de Ciências da Computação.
 
 
-![[univaliS2.jpg]]
+![Univali_melhorou_minha_vida](/univaliS2.jpg)
